@@ -1,0 +1,22 @@
+{
+  "name": "adaptr-profile",
+  "version": "0.0.0",
+  "author": "Stephen J. Collings <stevoland@gmail.com>",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stevoland/adaptr-profile"
+  },
+  "bugs": {
+    "url": "https://github.com/nodejitsu/stevoland/adaptr-profile/issues"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "eslint": "^0.10.0"
+  },
+  "engines": {
+    "node": ">=0.10.0",
+    "npm": "1.2.x"
+  }
+}
